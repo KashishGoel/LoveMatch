@@ -9,6 +9,7 @@
 #import "Parse/Parse.h"
 #import "ParseFacebookUtilsV4/PFFacebookUtils.h"
 #import "FBSDKCoreKit/FBSDKCoreKit.h"
+#import <Firebase/Firebase.h>
 
 #ifndef JSQMessages_JSQMessages_h
 #define JSQMessages_JSQMessages_h

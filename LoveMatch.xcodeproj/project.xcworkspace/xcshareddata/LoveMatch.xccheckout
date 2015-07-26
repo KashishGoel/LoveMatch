@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D22C2576-36A8-4749-82E4-8365CF5CB33B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>LoveMatch</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>CF8CB9872D88AA999B7505F00C08D27657C4B726</key>
+		<string>https://github.com/KashishGoel/LoveMatch.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>LoveMatch.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>CF8CB9872D88AA999B7505F00C08D27657C4B726</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/KashishGoel/LoveMatch.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>CF8CB9872D88AA999B7505F00C08D27657C4B726</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>CF8CB9872D88AA999B7505F00C08D27657C4B726</string>
+			<key>IDESourceControlWCCName</key>
+			<string>LoveMatchApp</string>
+		</dict>
+	</array>
+</dict>
+</plist>
